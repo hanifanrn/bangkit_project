@@ -29,7 +29,7 @@ flask run
 
 4. Open your browser at:
 ```
-https://127.0.0.1:5000/
+http://imagecaptionme.an.r.appspot.com/
 ```
 
 Finish, you can try uploading your image!
